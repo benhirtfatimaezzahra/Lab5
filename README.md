@@ -1,4 +1,4 @@
-# Lab4 – Gestion d'une Classe
+# Lab5 – Gestion d'une Classe
 
 Application Python interactive pour gérer une liste d'étudiants avec leurs informations (nom, âge, note). Ce mini-projet permet d'effectuer des opérations CRUD complètes et d'obtenir des statistiques sur la classe.
 
